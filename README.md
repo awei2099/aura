@@ -2,12 +2,11 @@
 The official Repository for the Aura Project
 
 ### Contributers:
+Andy Wei- Project manager, Programmer, Idea Generation, Hardware Integration
 
-Krish Prabhu- Joined the Bandwagon Late- Programmer, Scribe, App Developer, Hardware Integration
+Krish Prabhu- Programmer, Scribe, App Developer, Hardware Integration
 
-Andy Wei- "Don't worry, I already checked the config file. It can't be the problem."- Project manager, Programmer, Idea Generation, Hardware Integration
-
-Aryan Chintapally- Bro is gone half the time- Programmer, Hardware Integration, 3D Modeler
+Aryan Chintapally- Programmer, Hardware Integration, 3D Modeler
 
 Harith Safian- Jerry- Art Director, Artist, Programmer, Designer
 
